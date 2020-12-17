@@ -3,3 +3,4 @@ git is here old
  new line
  new new line
  git tracks changes of filees
+ git changes of chart
