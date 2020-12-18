@@ -6,6 +6,10 @@ git is here old
  git changes of chart
  aaa  bbb ccceee7777
  in dev branch
+
  add in master_branch
  add in feature_branch
+
+
+ add 111 in dev branch
 
